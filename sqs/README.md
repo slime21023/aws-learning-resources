@@ -6,7 +6,7 @@
 - [Amazon SQS Cheat Sheet](https://tutorialsdojo.com/amazon-sqs/)
 - [Mini Tutorial: Use Amazon SQS as a Celery Message Broker](https://celery.school/amazon-sqs-celery-broker)
 - [Amazon SNS vs. Amazon SQS](https://www.baeldung.com/aws-sns-vs-sqs)
-
+- [Mastering Retries: Best Practices for Amazon SQS](https://www.ranthebuilder.cloud/post/mastering-retries-best-practices-for-amazon-sqs)
 
 ### Repository
 - [amazon-sqs-best-practices-cdk](https://github.com/aws-samples/amazon-sqs-best-practices-cdk)
