@@ -45,7 +45,7 @@
 ## Design Patterns
 * [Cloud design patterns, architectures, and implementations](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html)
 
-## Use Cases
+## Use Cases For Website
 
 * [Using Amazon CloudFront with AWS Lambda as origin](https://aws.amazon.com/tw/blogs/networking-and-content-delivery/using-amazon-cloudfront-with-aws-lambda-as-origin-to-accelerate-your-web-applications/)
 * [S3 website hosting with CloudFront](https://cduser.com/how-to-host-a-static-website-using-aws-s3-and-cloudfront/)
